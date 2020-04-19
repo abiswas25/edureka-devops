@@ -1,1 +1,2 @@
 "file1" 
+"Add from feature1 branch" 
